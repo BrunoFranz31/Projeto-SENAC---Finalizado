@@ -1,0 +1,26 @@
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\appsettings.Development.json
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\appsettings.json
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\Bruno - SENAC.staticwebassets.runtime.json
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\Bruno - SENAC.exe
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\Bruno - SENAC.deps.json
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\Bruno - SENAC.runtimeconfig.json
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\Bruno - SENAC.dll
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\Bruno - SENAC.pdb
+C:\Users\tioke\Desktop\TeuDia-main\bin\Debug\netcoreapp6.0\MySqlConnector.dll
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.csproj.AssemblyReference.cache
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.AssemblyInfoInputs.cache
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.AssemblyInfo.cs
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.csproj.CoreCompileInputs.cache
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.RazorAssemblyInfo.cache
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.RazorAssemblyInfo.cs
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\staticwebassets.build.json
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\staticwebassets.development.json
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\scopedcss\bundle\Bruno - SENAC.styles.css
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.csproj.CopyComplete
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.dll
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\refint\Bruno - SENAC.dll
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.pdb
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\Bruno - SENAC.genruntimeconfig.cache
+C:\Users\tioke\Desktop\TeuDia-main\obj\Debug\netcoreapp6.0\ref\Bruno - SENAC.dll

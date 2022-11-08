@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqGiq05qBbf2EeWg043tXdr5orcPV5Z6wVU5syB/EsQlMjP/UBsAQ+1ACfnfYVVv7j3PRkZxFXqkP2Co7Q/vdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tioke\\Desktop\\TeuDia-main\\Bruno - SENAC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tioke\\.nuget\\packages\\mysqlconnector\\1.2.0\\mysqlconnector.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
